@@ -2,7 +2,7 @@
 A simple and efficient ToDo application built with React that helps you organize and track your tasks easily.
 
 ## Features <br/>
-Add Tasks: <br/> 
+### Add Tasks: <br/> 
 Quickly add new tasks to your list. <br/>
 ### Edit Tasks:  <br/>
 Modify tasks as your plans change. <br/>
