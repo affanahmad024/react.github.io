@@ -4,8 +4,6 @@ A simple and efficient ToDo application built with React that helps you organize
 ## Features <br/>
 ### Add Tasks: <br/> 
 Quickly add new tasks to your list. <br/>
-### Edit Tasks:  <br/>
-Modify tasks as your plans change. <br/>
 ### Delete Tasks:  <br/>
 Remove tasks once they're completed or no longer relevant. <br/>
 ### Mark as Complete: <br/>
